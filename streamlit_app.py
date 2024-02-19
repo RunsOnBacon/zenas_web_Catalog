@@ -1,6 +1,6 @@
 import streamlit as st
 
-Streamlit.title('My Parents new healthy diner')
+streamlit.title('My Parents new healthy diner')
 
 
 # Initialize connection.
